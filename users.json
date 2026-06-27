@@ -1,0 +1,17 @@
+{
+  "user_1": {
+    "key": "ABC123-XYZ789-DEF456-GHI012",
+    "hwid": "HWID_1",
+    "expiry_date": "2026-12-31"
+  },
+  "user_2": {
+    "key": "JKL345-MNO678-PQR901-STU234",
+    "hwid": "HWID_2",
+    "expiry_date": "2026-12-31"
+  },
+  "user_3": {
+    "key": "VWX567-YZA890-BCD123-EFG456",
+    "hwid": "HWID_3",
+    "expiry_date": "2026-12-31"
+  }
+}
