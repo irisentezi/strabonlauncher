@@ -1,1 +1,37 @@
-gAAAAABqQQcMXKVFZ4Y2AH-EpDajalY1MDtbaW2Ta49Zf44jO8vYn3Bll4wogLIo9TaK81Py5z72zJx37x-y9RlFSUAUhR1r2JbjFv5J2prgymZFNOwA6v0ESYaf33NarjD9ZlbEyb4RGO2-O2ndbZKmuT-5Bw12Wrfyno7VBOoSvDPg8r6ZCOdVIYFk15TvXiZyU2lQI_glNKWcHkX1-ar1845ZbZYMbsRN-M6sO7usVaYkLhvNtef8oUmxuT3jifGD6Wtx2B0tRzDP7AxOf-5t8moFpc_r5X2S9UCuEUgZoT7DczkZsuQ6jWcEihWKtuBfxskZaXIT4Eha1W9pD5vlPpq0SmNMUrttkAozus-s2wx8_u0sQYgm0pev36e7SZ7pOQmRW93kSRCdYse4aVEJYLo1O8YV-Ao5ACm4P3OX1psdz-lMbXNbD7J-m8qO8u1FzSIRFaXw
+{
+  "user_1": {
+    "key": "debug",
+    "hwid": "",
+    "expiry_year": "2026",
+    "expiry_month": "12",
+    "expiry_day": "31"
+  },
+  "user_2": {
+    "key": "JKL345-MNO678-PQR901-STU234",
+    "hwid": "HWID_2",
+    "expiry_year": "2026",
+    "expiry_month": "12",
+    "expiry_day": "31"
+  },
+  "user_3": {
+    "key": "VWX567-YZA890-BCD123-EFG456",
+    "hwid": "HWID_3",
+    "expiry_year": "2026",
+    "expiry_month": "12",
+    "expiry_day": "31"
+  },
+  "user_4": {
+    "key": "1",
+    "hwid": "",
+    "expiry_year": "2026",
+    "expiry_month": "06",
+    "expiry_day": "27"
+  },
+  "developer": {
+    "key": "testt",
+    "hwid": "",
+    "expiry_year": "2026",
+    "expiry_month": "07",
+    "expiry_day": "02"
+  }
+}
